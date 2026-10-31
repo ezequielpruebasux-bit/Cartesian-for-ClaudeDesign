@@ -1,0 +1,36 @@
+{
+ "v": 3,
+ "layout": "files",
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-09-22T20:53:13Z"
+ },
+ "title": "CARTE",
+ "namespace": "Carte",
+ "libraries": [],
+ "sections": {},
+ "groups": [
+  "Logo~20Andreani"
+ ],
+ "assetGroups": {
+  "Logo~20Andreani": {
+   "name": "Logo Andreani",
+   "tile": "l",
+   "order": [
+    "logoAndreani.svg"
+   ],
+   "files": {}
+  }
+ },
+ "blobs": {},
+ "docs": {
+  "readme": "project/README.md",
+  "sections": []
+ },
+ "lastChange": {
+  "by": "ezequiel",
+  "at": "2026-10-31T00:00:00Z",
+  "via": "Claude (Cowork)",
+  "note": "Export para importar en Claude Design."
+ }
+}
